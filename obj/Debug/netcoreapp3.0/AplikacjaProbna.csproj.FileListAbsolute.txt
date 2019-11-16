@@ -1,0 +1,11 @@
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.exe
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.deps.json
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.runtimeconfig.json
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.runtimeconfig.dev.json
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.dll
+D:\Projekty_VS\test2\bin\Debug\netcoreapp3.0\AplikacjaProbna.pdb
+D:\Projekty_VS\test2\obj\Debug\netcoreapp3.0\AplikacjaProbna.csprojAssemblyReference.cache
+D:\Projekty_VS\test2\obj\Debug\netcoreapp3.0\AplikacjaProbna.AssemblyInfoInputs.cache
+D:\Projekty_VS\test2\obj\Debug\netcoreapp3.0\AplikacjaProbna.AssemblyInfo.cs
+D:\Projekty_VS\test2\obj\Debug\netcoreapp3.0\AplikacjaProbna.dll
+D:\Projekty_VS\test2\obj\Debug\netcoreapp3.0\AplikacjaProbna.pdb
