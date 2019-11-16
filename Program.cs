@@ -6,7 +6,12 @@ namespace AplikacjaProbna
     {
         static void Main(string[] args)
         {
-             
+            void MethodOne()
+            {
+                NewClass imie = new NewClass();
+
+                Console.Write(imie.Method());
+            }
         }
     }
 }
