@@ -9,7 +9,7 @@ namespace AplikacjaProbna
             void MethodOne()
             {
                 NewClass imie = new NewClass();
-
+                Console.WriteLine("ELO");
                 Console.Write(imie.Method());
             }
         }
